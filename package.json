@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/miguel-javela/platzi-asincronismo-JavaScript/issues"
   },
-  "homepage": "https://github.com/miguel-javela/platzi-asincronismo-JavaScript#readme"
+  "homepage": "https://github.com/miguel-javela/platzi-asincronismo-JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
